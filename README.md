@@ -5,7 +5,8 @@
 Nikolah Danchuk-Lauzon
 300233204
 
-NOTE (in case you need it): To run the Employee GraphiQL Exercise do the following:
+
+NOTE (complete exercise in main branch by accident as well, so in case the code in the server branch doesn't work): To run the Employee GraphiQL Exercise do the following:
 
 Run Docker
 
