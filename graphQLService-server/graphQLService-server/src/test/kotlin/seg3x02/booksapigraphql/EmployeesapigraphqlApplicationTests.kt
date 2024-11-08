@@ -1,10 +1,10 @@
-package seg3x02.booksapigraphql
+package seg3x02.employeeapigraphql
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class BooksapigraphqlApplicationTests {
+class EmplpoyeesapigraphqlApplicationTests {
 
 	@Test
 	fun contextLoads() {

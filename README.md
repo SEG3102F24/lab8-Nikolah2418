@@ -4,3 +4,14 @@
 
 Nikolah Danchuk-Lauzon
 300233204
+
+NOTE (in case you need it): To run the Employee GraphiQL Exercise do the following:
+
+Run Docker
+
+cd graphQLService-server/graphQLService-server
+./gradlew build
+./gradlew bootRun
+
+cd graphQLService=client/graphQLService-client
+ng serve
